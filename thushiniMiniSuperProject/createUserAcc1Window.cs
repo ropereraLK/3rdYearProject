@@ -189,7 +189,7 @@ namespace thushiniMiniSuperProject
 
         private void createUserAcc1Window_Load(object sender, EventArgs e)
         {
-            //hello
+            //hello world
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
